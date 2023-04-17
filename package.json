@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  },
+  "name": "zbotts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "start": "ts-node src/Bot.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
